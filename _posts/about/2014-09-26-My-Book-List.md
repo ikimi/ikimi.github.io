@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 我的书单
-description: kimi's booklist
+title: kimi's book list
 category: about
+description: kimi's book list
 ---
-
