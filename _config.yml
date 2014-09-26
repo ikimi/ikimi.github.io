@@ -1,0 +1,13 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: kimi.com
+url: http://ikimi.github.io
+feed: /atom.xml
+author_name: kimi
+author_email: jiajun.li13@gmail.com
+author_info: <a href="http://ikimi.github.io/">kimi</a>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+   <title>kimi.com</title>
+   <link href="http://ikimi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://ikimi.github.io" rel="alternate" type="text/html" />
+   <updated>2014-09-26T21:53:16+08:00</updated>
+   <id>http://ikimi.github.io</id>
+   <author>
+     <name>kimi</name>
+     <email>jiajun.li13@gmail.com</email>
+   </author>
+
+   
+   <entry>
+     <title>我的书单</title>
+     <link href="http://ikimi.github.io/My-Book-List"/>
+     <updated>2014-09-26T00:00:00+08:00</updated>
+     <id>http://beiyuu.com/My-Book-List</id>
+     <content type="html">
+</content>
+   </entry>
+   
+
+</feed>
