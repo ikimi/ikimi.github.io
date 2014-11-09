@@ -79,7 +79,9 @@ apache2.conf是apache的配置文件，linux下的apache将配置信息分解到
 回到web应用的根目录下，编辑.htaccess文件。
 
     RewriteEngine on
-    RewriteCond $1 !^(index\.php|style|robots\.txt)
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^(.*)$ /index.php/$1 [L]
 
 如果你的web应用不是在<code>/var/www</code>根目录下，则需要将<code>ReWriteRule</code>配置成
