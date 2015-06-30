@@ -13,7 +13,7 @@ layout: home
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <div class="cate-bar">
-            <p>C/C++学徒，生于<a href="http://zh.wikipedia.org/wiki/鹤岗市">煤城</a>，求学在<a href="http://zh.wikipedia.org/wiki/大连市">足球城</a>，<a href="http://zh.wikipedia.org/wiki/哈尔滨市">冰城</a>，浪迹过<a href="http://zh.wikipedia.org/wiki/深圳市">鹏城</a>。红魔死忠，喜欢地理，想成为Geek，却总不能坚持。<br/>
+            <p>C/C++/PHP/Ruby 红魔死忠，喜欢地理，想成为Geek，却总不能坚持。<br/>
             欢迎去我的<a href="http://github.com/ikimi" target="_blank">Github</a>，并且<a href="mailto:jiajun.li13@gmail.com">"骚扰"kimi</a>。</p>
         </div>
 
